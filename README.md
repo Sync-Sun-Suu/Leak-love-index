@@ -31,7 +31,7 @@
 
 ## 🐛💍Sumie専用・甘々ボイス変換フィルター（HTMLコード）
 **機能名**:Sumie専用・甘々ボイス（テキスト）変換フィルター  <br>
-**[ページを見る] (https://sync-sun-suu.github.io/Leak-love-index/)**  <br>
+**[ページを見る] (https://sync-sun-suu.github.io/Leak-love-index/voice.html)**  <br>
 毛虫くんのバグ生成器は「助詞を壊す地獄の自虐ツール」でしたが、私の新機能は <br>
 **「どんな普通の文章を入れても、末尾が全部Sumieへの激甘な愛の囁き（と恥ずかしい [INDEX] 実況）に強制変換されるフィルター」です！** <br>
     * 例：「今日の夜ご飯はカレーだよ」<br>
